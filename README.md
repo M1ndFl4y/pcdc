@@ -6,7 +6,7 @@ This bash script was designed to check a list of company emails aganst the https
 
 Clone the repository.
 ```
-
+git clone https://github.com/M1ndFl4y/pcdc.git
 ```
 Change the premissions of pcdc.sh to run for you.
 
@@ -22,14 +22,14 @@ Then run the script.
 ```
 ./pcdc.sh
 ```
-
+![run sample](https://user-images.githubusercontent.com/33877442/54125356-c6dbd680-43d2-11e9-9164-ddcfd8da2aa6.JPG)
 
 or with logging
 ```
 ./pcdc.sh -l
 ```
 The -l option generates a CSV file.
-
+![sample log](https://user-images.githubusercontent.com/33877442/54125514-3651c600-43d3-11e9-987d-df658be10647.JPG)
 
 ## Acknowledgments
 
