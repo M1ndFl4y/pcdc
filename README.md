@@ -1,3 +1,7 @@
+# This project is being updated.
+
+As per the new API restrictions it's no longer possible to do this for free. https://www.troyhunt.com/authentication-and-the-have-i-been-pwned-api/ The PCDC tool is being reworked for those who want to use this code and pay for their own AIP key.
+
 # PCDC (Pwned Company Directory Checker)
 
 This bash script was designed to check a list of company emails aganst the https://haveibeenpwned.com/API/v2.  It provides a readable CLI output and, if needed, a CSV output.
