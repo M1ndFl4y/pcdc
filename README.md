@@ -4,7 +4,7 @@ As per the new API restrictions it's no longer possible to do this for free. htt
 
 # PCDC (Pwned Company Directory Checker)
 
-This bash script was designed to check a list of company emails aganst the https://haveibeenpwned.com/API/v2.  It provides a readable CLI output and, if needed, a CSV output.
+Originally a bash script, PCDC has been updated into a python script and configured to work with the https://haveibeenpwned.com/API/v3. It provides a readable CLI output. 
 
 ## Install
 
@@ -12,10 +12,10 @@ Clone the repository.
 ```
 git clone https://github.com/M1ndFl4y/pcdc.git
 ```
-Change the premissions of pcdc.sh to run for you.
+Change the premissions of pcdc.py to run for you.
 
 ```
-chmod +x pcdc.sh
+chmod +x pcdc.py
 ```
 
 ## How to use
@@ -24,7 +24,7 @@ Replace the list of targets in the sample targets.txt file with the group of ema
 Then run the script.
 
 ```
-./pcdc.sh
+./pcdc.py targets.txt
 ```
 ![run sample](https://user-images.githubusercontent.com/33877442/54125356-c6dbd680-43d2-11e9-9164-ddcfd8da2aa6.JPG)
 
