@@ -27,7 +27,6 @@ Then run the script.
 ./pcdc.py targets.txt
 ```
 ![run sample](https://user-images.githubusercontent.com/33877442/67160070-7afef180-f312-11e9-8550-27ff23d2641f.jpg)
-```
 
 ## Credits
 - [vimk1ng](https://twitter.com/vimk1ng)
