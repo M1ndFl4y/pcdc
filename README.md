@@ -35,6 +35,10 @@ or with logging
 The -l option generates a CSV file.
 ![sample log](https://user-images.githubusercontent.com/33877442/54125514-3651c600-43d3-11e9-987d-df658be10647.JPG)
 
+## Credits
+- [vimk1ng](https://twitter.com/vimk1ng)
+- [M1ndFl4y](https://twitter.com/M1ndFl4y)
+
 ## Acknowledgments
 
 * Troy Hunt
